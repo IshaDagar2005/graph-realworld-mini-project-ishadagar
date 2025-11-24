@@ -1,27 +1,9 @@
-Graph Algorithms in Real-Life Applications
+#Graph Algorithms in Real-Life Applications
 Design and Analysis of Algorithms – Lab Assignment 3
 
-Course Code: ENCA351
-Program: BCA (AI & DS), Semester V
-University: K.R. Mangalam University
-
-Overview
+#Overview
 
 This project implements four major graph algorithms and applies them to realistic scenarios such as social networks, navigation systems, emergency routing, and network infrastructure design.
-
-Each problem includes:
-
-Graph modeling
-
-Algorithm implementation
-
-Time & memory profiling
-
-Result visualization
-
-Explanation of complexity
-
-This repository contains the complete code, datasets, profiling graphs, and summary analysis.
 
 Algorithms Implemented
 1. Friend Suggestion System
