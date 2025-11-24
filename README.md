@@ -1,10 +1,13 @@
 #Graph Algorithms in Real-Life Applications
+
 Design and Analysis of Algorithms – Lab Assignment 3
 
 #Overview
+
 This project implements four major graph algorithms and applies them to realistic scenarios such as social networks, navigation systems, emergency routing, and network infrastructure design.
 
 #Algorithms Implemented
+
 1. Friend Suggestion System
 
 Algorithm: BFS/DFS-based Mutual Friend Counting
